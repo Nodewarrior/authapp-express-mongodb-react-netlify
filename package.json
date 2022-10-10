@@ -1,0 +1,17 @@
+{
+  "name": "auth-app",
+  "version": "1.0.0",
+  "description": "Authentication with mongodb-netflify-reactjs-express",
+  "main": "index.js",
+  "repository": "https://github.com/Nodewarrior/authapp-express-mongodb-react-netlify.git",
+  "author": "Nodewarrior <akshaykumar.kataiah@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
